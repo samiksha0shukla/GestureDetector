@@ -1,0 +1,13 @@
+MediaPipe
+OpenCV (cv2)
+NumPy
+Pandas
+Scikit-learn
+Pickle
+
+Open your terminal or command prompt and run the following commands:
+pip install mediapipe
+pip install opencv-python
+pip install numpy
+pip install pandas
+pip install scikit-learn
