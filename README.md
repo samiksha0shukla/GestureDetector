@@ -1,7 +1,6 @@
 # GestureDetector
-Objective: Recognize hand gestures in real-time and identify specific gestures.
-
-Tools: MediaPipe for gesture recognition and OpenCV for video processing.
+1. Objective: Recognize hand gestures in real-time and identify specific gestures.
+2. Tools: MediaPipe for gesture recognition and OpenCV for video processing.
 
 Process:
 
