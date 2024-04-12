@@ -1,12 +1,5 @@
 # GestureDetector
- Objective: Recognize hand gestures in real-time and identify specific gestures.
- Tools: MediaPipe for gesture recognition and OpenCV for video processing.
-Process:
-Capture video feed from the webcam.
-Use MediaPipe to detect hand landmarks and pose landmarks.
-Draw detected landmarks on the video feed.
-Train a machine learning model to recognize specific gestures based on landmark positions.
-Use the trained model to predict gestures in real-time.
+Objective: Recognize hand gestures in real-time and identify specific gestures.
 Output: A video feed with detected landmarks and recognized gestures.
 Applications:
 1. Healthcare Applications: Use gestures for patient interaction in medical devices or therapy sessions.
